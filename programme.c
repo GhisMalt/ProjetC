@@ -3,7 +3,10 @@
 
 int main(void) {
 
-	printf("Un programme C");
+	int a = 0;
+
+	printf("Un programme C\n");
+	printf("%d", a+6);
 
 
 
