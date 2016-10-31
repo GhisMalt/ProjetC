@@ -3,10 +3,11 @@
 
 int main(void) {
 
-	int a = 5, b;
+	int a = 78
+;
 
-	printf("Un programme C\n");
-	printf("%d", a+7);
+	printf("Ufn programme C\n");
+	printf("%d", a+6);
 
 
 
